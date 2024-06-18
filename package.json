@@ -10,11 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@rah-emil/reraicons": "^1.0.1",
     "ant-design-vue": "^4.2.2",
     "vue": "^3.4.21"
   },
   "devDependencies": {
-    "@rah-emil/reraicons": "^1.0.0",
     "@vitejs/plugin-vue": "^5.0.4",
     "typescript": "^5.2.2",
     "vite": "^5.2.0",
