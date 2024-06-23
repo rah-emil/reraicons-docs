@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@rah-emil/reraicons": "^1.0.1",
+    "@rah-emil/reraicons": "^1.0.2",
     "ant-design-vue": "^4.2.2",
     "vue": "^3.4.21"
   },
